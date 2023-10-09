@@ -11,7 +11,7 @@ You can test it by the below steps :
 
 4- After starting the project use a curl command like the below : 
 
-curl -X POST -H "Content-Type: application/json" -d "Your message here" http://localhost:8080/api/produce
+curl -X POST -H "Content-Type: application/json" -d "Your message here" http://localhost:8080/v1/api/produce
 
 
 or by using a postman like this sample ![Alt text](image-1.png)
